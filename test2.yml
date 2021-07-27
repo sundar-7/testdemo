@@ -14,7 +14,9 @@ pipeline {
         }
         stage('end') {
             steps{
-                echo "hi hello"
+
+            
+                echo "hi hello check 1 23"
             }
       }
     }    
